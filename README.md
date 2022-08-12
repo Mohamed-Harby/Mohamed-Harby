@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="welcome to my github.gif" width="800"/>
-</div>
-
-
 
 ### 👨‍💻 About Me :
 - 🔭 I'm a Computer Engineering student.
