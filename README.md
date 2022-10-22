@@ -10,16 +10,18 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" **alt="C++" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" **alt="JAVA" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" **alt="ubuntu" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="mysql" **alt="mysql" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" **alt="html5" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" **alt="CSS" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="dotnet" **alt="dotnet" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" **alt="flask" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" **alt="git" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"/>
+
 </div>
 
 ---
