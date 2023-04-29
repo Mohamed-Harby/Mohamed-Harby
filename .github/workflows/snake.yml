@@ -30,7 +30,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/colorful.svg?color_snake=#ae3c60&color_dots=#df473c,#f3c33c,#255e79,#267778,#82b4bb
+            dist/colorful.svg?color_snake=#db2b65&color_dots=#a34841,#f3c33c,#255e79,#267778,#1bdbbb
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
