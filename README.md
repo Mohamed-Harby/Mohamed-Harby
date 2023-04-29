@@ -25,9 +25,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/ocean.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/ocean.svg" />
+  <img alt="github-snake" src="ocean.svg" />
 </picture>
 
 <a href="https://github.com/Mohamed-Harby"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-MohamedHarby-orange"></a>
