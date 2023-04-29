@@ -24,4 +24,10 @@
 
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/github-contribution-grid-snake-light.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <a href="https://github.com/Mohamed-Harby"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-MohamedHarby-orange"></a>
