@@ -23,11 +23,13 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Harby&theme=transparent&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&mode=weekly&card_width=350&ring=E11EEB&fire=FFA721&stroke=0ED3EB&currStreakNum=0ED3EB&sideNums=0ED3EB&sideLabels=FFA721&dates=EB545400&currStreakLabel=0ED3EB" />
 
 </p>
-
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/ocean.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/ocean.svg" />
-  <img alt="github-snake" src="ocean.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/colorful.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/colorful.svg" />
+  <img alt="github-snake" src="colorful.svg" />
 </picture>
-
+</p>
+<p align="center">
 <a href="https://github.com/Mohamed-Harby"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-MohamedHarby-orange"></a>
+</p>
