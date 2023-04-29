@@ -23,9 +23,9 @@
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/colorful3.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/colorful3.svg" />
-  <img alt="github-snake" src="colorful3.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/colorful4.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/colorful4.svg" />
+  <img alt="github-snake" src="colorful4.svg" />
 </picture>
 </p>
 <p align="center">
