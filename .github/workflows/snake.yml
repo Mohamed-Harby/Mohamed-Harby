@@ -8,7 +8,7 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the main branch
+  # run on every push on the master branch
   push:
     branches:
     - main
@@ -28,8 +28,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=24292e,2ea44f,6f42c1,cb2431,ffd33d
-            dist/github-contribution-grid-snake-light.svg?palette=ffffff,22863a,F97B22,db4c3f,ffd633
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
