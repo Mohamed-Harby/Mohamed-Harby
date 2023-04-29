@@ -1,33 +1,27 @@
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
 
-### 👨‍💻 About Me :
-- 🔭 I'm a Computer Engineering student.
-- 🌱 I spend most of my time solving coding problems.
-- 👯 I'm passionate about learning new technologies.
-- 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-harby-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moharby/)
+<h3 align="center">I'm Mohamed Harby 🌟</h3>
 
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"/>
-
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=1700&pause=10&color=fccc5c&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=120&lines=Senior+Student%F0%9F%8E%93;Competitive+Programmer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Java+Developer%F0%9F%91%BE;React+Developer%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
 
----
 
-### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Harby&theme=radical&date_format=j%20M%5B%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
+<p align="center">
+<a href="https://linkedin.com/in/moharby" target="_blank"><img src="https://img.shields.io/badge/-MohamedHarby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/moharby/"></a>
+<a href="https://codeforces.com/profile/7ARbii" target="_blank"><img src="https://img.shields.io/badge/Codeforces-7ARbii-red?logo=codeforces&logoColor=white&message=Solving%20Problems&"></a>
+<a href="https://github.com/Mohamed-Harby"><img src="https://img.shields.io/github/followers/Mohamed-Harby?label=follow&style=social"></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Harby&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+ <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Harby&layout=compact&theme=transparent&hide_border=true&border_radius=0&card_width=35&text_color=FFFFFF&title_color=FFFFFF" />
+ 
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Harby&theme=transparent&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&mode=weekly&card_width=350&ring=E11EEB&fire=FFA721&stroke=0ED3EB&currStreakNum=FFFFFF&sideNums=0ED3EB&sideLabels=FFA721&dates=EB545400&currStreakLabel=0ED3EB" />
+
+</p>
+
+<a href="https://github.com/Mohamed-Harby"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-MohamedHarby-orange"></a>
