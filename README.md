@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://media.tenor.com/qLMpwF42khIAAAAi/hi-brown.gif" width="150" loop>
-</div>
+
 <h3 align="center">I'm Mohamed Harby 🌟</h3>
 
 <div align="center">
