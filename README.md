@@ -1,26 +1,20 @@
-<h2 align="left">Hi 👋, It's Mohamed !</h2>
+### Hi there 👋
 
-<p align="left">
-    🦸🏻 <i>
-          <b>
-            Preoccupied and driven by the lofty matters; continuing to aspire to everything that is noble and grand.
-          </b>
-       </i>
-</p>
-  
-<p align="left">🧑‍💻 <i>Software engineering enthusiast and competitve programming veteran.</i></p>
 
-- **🌱 I’m currently,**
+I'm Mohamed Harby, a software engineer and a seasoned competitive programmer based in Giza, Egypt. I started coding when I was 13 with Visual Basic, turned to Java at 16, and later, I switched to other languages like C++, Python, and JS, and now I'm back in the Java world. I’m determined to stay engaged and make the most of life!
+
+
+
+**🌱 I’m currently,**
   - Diving into Spring Framework. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" alt="spring logo"  />
-  - Reading The Object-Oriented Thought Process book.
-  - Doing competitive programming.
-  - studying system design.
+  - Enriching my computer science knowledge.
+  - Doing some competitive programming.
 
-- **✔️ I’ve read,**
+<!-- **✔️ I’ve read,**
   - Spring Start Here. 
   - Cracking the coding interview.
   - Object-Oriented Programming in C++.
-
+ -->
 
 
 Know about my experiences [Resume](./Mohamed%20Harby's%20Resume.pdf).
