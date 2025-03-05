@@ -12,7 +12,7 @@ I'm Mohamed Harby, a software engineer and a seasoned competitive programmer bas
 
 **🔥 Hot These Days:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Harby&repo=tazkira-extension\&bg_color=0,00224D,FF204E\&title_color=fff\&text_color=fff\&icon_color=f9f9f9\&border_radius=15\&hide_border=true)](https://github.com/Mohamed-Harby/tazkira-extension)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Harby&repo=movies-app\&bg_color=0,00224D,FF204E\&title_color=fff\&text_color=fff\&icon_color=f9f9f9\&border_radius=15\&hide_border=true)](https://github.com/Mohamed-Harby/movies-app)
 
 
 <!-- **✔️ I’ve read,**
