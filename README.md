@@ -22,8 +22,22 @@ I'm Mohamed Harby, a software engineer and a seasoned competitive programmer bas
  -->
 
 
-Know about my experiences [Resume](./Mohamed%20Harby's%20Resume.pdf).
+<a href="https://calendar.app.google/3BunZ1m5f382pwwz8" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/google-calendar--v2.png" alt="Calendar" width="16" height="16" style="vertical-align: middle;"/> 
+  Schedule a call with me
+</a>
 <br>
-Reach me at mohamed.harby.ce@gmail.com.
+<a href="./Mohamed%20Harby's%20Resume.pdf" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/resume.png" alt="Resume" width="16" height="16" style="vertical-align: middle;"/>
+  Download my resume
+</a>
 <br>
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/moharby/).
+<a href="mailto:mohamed.harby.ce@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="16" height="16" style="vertical-align: middle;"/>
+  Reach me at mohamed.harby.ce@gmail.com
+</a>
+<br>
+<a href="https://www.linkedin.com/in/moharby/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" style="vertical-align: middle;"/>
+  Feel free to connect with me on LinkedIn
+</a>
